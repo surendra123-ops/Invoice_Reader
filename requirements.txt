@@ -1,0 +1,9 @@
+streamlit
+flask
+pillow
+numpy
+langchain-google-genai
+python-dotenv
+pytesseract
+google-generativeai
+gunicorn
