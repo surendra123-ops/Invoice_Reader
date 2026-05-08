@@ -1,4 +1,8 @@
+#with flask 
+
+
 from flask import Flask,request,jsonify,render_template
+
 from PIL import Image
 import numpy as np
 from langchain_google_genai import ChatGoogleGenerativeAI
